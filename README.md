@@ -1,5 +1,5 @@
 
-!(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg0VmNhnmDRkMfPxbRTjrP5XKYmg5xI4LLig&usqp=CAU)
+![My Remote Image](https://i.guim.co.uk/img/media/08677bc8f407e859e4e8c6f69d4deee4958fea7f/0_0_4416_2648/master/4416.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=078081c7469f592bccab72cccab2e81f)
 
 # Students-Grades Vs parental Level of Education
 Talent Squad | Data Science III
